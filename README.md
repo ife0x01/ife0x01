@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Phyee16
-- 👀 I’m interested in hacking 
-- 🌱 I’m currently learning nothing 
-- 💞️ I’m looking to collaborate on how to hack 
-- 📫 How to reach me 07065168846
+- 👋 Hi, I’m @ife0x01
+- 👀 I’m interested in web penetration testng
+- 🌱 I’m currently learning web penetration testing 
+- 💞️ I’m looking to collaborate on cybersecurity projects
+- 📫 How to reach me on X and Linkedln @ife0x01
 - 😄 Pronouns: He
 - ⚡ Fun fact: ...
 
